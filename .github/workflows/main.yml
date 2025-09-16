@@ -39,6 +39,13 @@ jobs:
                 if [ -s "$tmpfile" ]; then   # 有内容才算成功
                   mv "$tmpfile" "$outfile"
                   echo "✅ $outfile 下载并覆盖完成"
+
+                  # ---- yylunbo.m3u 额外处理 ----
+                  if [ "$outfile" = "yylunbo.m3u" ]; then
+                    sed -i 's#https://mursor.ottiptv.cc#https://yylunbo.ottiptv.cc#g' "$outfile"
+                    echo "🔧 已将 $outfile 中的 mursor.ottiptv.cc 替换为 yylunbo.ottiptv.cc"
+                  fi
+
                   return 0
                 fi
               fi
