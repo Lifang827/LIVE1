@@ -21,7 +21,7 @@ jobs:
           set -e
           echo "🎵 开始下载 IPTV 播放列表..."
 
-          base="https://mursor.ottiptv.cc"
+          base="https://live.ottiptv.cc"
           files=("yylunbo.m3u" "huyayqk.m3u" "douyuyqk.m3u" "bililive.m3u")
 
           # ---- 只在下载成功后才覆盖原文件 ----
@@ -42,8 +42,8 @@ jobs:
 
                   # ---- yylunbo.m3u 额外处理 ----
                   if [ "$outfile" = "yylunbo.m3u" ]; then
-                    sed -i 's#https://mursor.ottiptv.cc#https://yylunbo.ottiptv.cc#g' "$outfile"
-                    echo "🔧 已将 $outfile 中的 mursor.ottiptv.cc 替换为 yylunbo.ottiptv.cc"
+                    sed -i 's#https://live.ottiptv.cc#https://yylunbo.ottiptv.cc#g' "$outfile"
+                    echo "🔧 已将 $outfile 中的 live.ottiptv.cc 替换为 yylunbo.ottiptv.cc"
                   fi
 
                   return 0
