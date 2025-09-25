@@ -132,35 +132,35 @@ http://vp.htdian.cn:58080/rtp/239.76.253.95:9000
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4美洲" tvg-logo="http://175.178.182.213/tb/CCTV4美洲.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4美洲
 http://vp.htdian.cn:58080/rtp/239.76.253.96:9000
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV3" tvg-logo="http://175.178.182.213/tb/CCTV3.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV3
-http://175.0.68.108:9002/tsfile/live/0003_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0003_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV8" tvg-logo="http://175.178.182.213/tb/CCTV8.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV8
-http://175.0.68.108:9002/tsfile/live/0008_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0008_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV2" tvg-logo="http://175.178.182.213/tb/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV2
-http://175.0.68.108:9002/tsfile/live/0002_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0002_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV5" tvg-logo="http://175.178.182.213/tb/CCTV5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5
-http://175.0.68.108:9002/tsfile/live/0005_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0005_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV13" tvg-logo="http://175.178.182.213/tb/CCTV13.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV13
-http://175.0.68.108:9002/tsfile/live/0013_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0013_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV4" tvg-logo="http://175.178.182.213/tb/CCTV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4
-http://175.0.68.108:9002/tsfile/live/0004_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0004_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV15" tvg-logo="http://175.178.182.213/tb/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
-http://175.0.68.108:9002/tsfile/live/0015_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0015_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV12" tvg-logo="http://175.178.182.213/tb/CCTV12.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV12
-http://175.0.68.108:9002/tsfile/live/0012_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0012_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV9" tvg-logo="http://175.178.182.213/tb/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9
-http://175.0.68.108:9002/tsfile/live/0009_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV14" tvg-logo="http://175.178.182.213/tb/CCTV14.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV14
-http://175.0.68.108:9002/tsfile/live/0014_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0014_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV7" tvg-logo="http://175.178.182.213/tb/CCTV7.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV7
-http://175.0.68.108:9002/tsfile/live/0007_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0007_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV10" tvg-logo="http://175.178.182.213/tb/CCTV10.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10
-http://175.0.68.108:9002/tsfile/live/0010_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0010_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV1" tvg-logo="http://175.178.182.213/tb/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1
-http://175.0.68.108:9002/tsfile/live/0001_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV6" tvg-logo="http://175.178.182.213/tb/CCTV6.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV6
-http://175.0.68.108:9002/tsfile/live/0006_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0006_1.m3u8
 #EXTINF:-1 group-title="📺央视频道" tvg-name="CCTV11" tvg-logo="http://175.178.182.213/tb/CCTV11.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11
-http://175.0.68.108:9002/tsfile/live/0011_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="☘️4K频道" tvg-name="CCTV16 4K 超" tvg-logo="http://175.178.182.213/tb/CCTV16 4K 超.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16 4K 超
 http://vp.htdian.cn:58080/rtp/239.76.253.230:9000
 #EXTINF:-1 group-title="☘️4K频道" tvg-name="CCTV16 4K" tvg-logo="http://175.178.182.213/tb/CCTV16 4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16 4K
@@ -310,63 +310,63 @@ http://vp.htdian.cn:58080/rtp/239.76.253.74:9000
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="延边卫视" tvg-logo="http://175.178.182.213/tb/延边卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",延边卫视
 http://vp.htdian.cn:58080/rtp/239.76.254.112:9000
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="山西卫视" tvg-logo="http://175.178.182.213/tb/山西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",山西卫视
-http://175.0.68.108:9002/tsfile/live/0118_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0118_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="湖南卫视" tvg-logo="http://175.178.182.213/tb/湖南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南卫视
-http://175.0.68.108:9002/tsfile/live/0017_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0017_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="河北卫视" tvg-logo="http://175.178.182.213/tb/河北卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",河北卫视
-http://175.0.68.108:9002/tsfile/live/0117_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="新疆卫视" tvg-logo="http://175.178.182.213/tb/新疆卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",新疆卫视
-http://175.0.68.108:9002/tsfile/live/0110_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0110_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="广西卫视" tvg-logo="http://175.178.182.213/tb/广西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",广西卫视
-http://175.0.68.108:9002/tsfile/live/0113_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0113_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="北京卫视" tvg-logo="http://175.178.182.213/tb/北京卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",北京卫视
-http://175.0.68.108:9002/tsfile/live/0122_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0122_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="河南卫视" tvg-logo="http://175.178.182.213/tb/河南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",河南卫视
-http://175.0.68.108:9002/tsfile/live/0139_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="江西卫视" tvg-logo="http://175.178.182.213/tb/江西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",江西卫视
-http://175.0.68.108:9002/tsfile/live/0138_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0138_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="东方卫视" tvg-logo="http://175.178.182.213/tb/东方卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",东方卫视
-http://175.0.68.108:9002/tsfile/live/0107_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="广东卫视" tvg-logo="http://175.178.182.213/tb/广东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",广东卫视
-http://175.0.68.108:9002/tsfile/live/0125_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0125_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="浙江卫视" tvg-logo="http://175.178.182.213/tb/浙江卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",浙江卫视
-http://175.0.68.108:9002/tsfile/live/0124_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0124_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="黑龙江卫视" tvg-logo="http://175.178.182.213/tb/黑龙江卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",黑龙江卫视
-http://175.0.68.108:9002/tsfile/live/0143_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="西藏卫视" tvg-logo="http://175.178.182.213/tb/西藏卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",西藏卫视
-http://175.0.68.108:9002/tsfile/live/0111_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0111_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="云南卫视" tvg-logo="http://175.178.182.213/tb/云南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",云南卫视
-http://175.0.68.108:9002/tsfile/live/0119_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="天津卫视" tvg-logo="http://175.178.182.213/tb/天津卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",天津卫视
-http://175.0.68.108:9002/tsfile/live/0135_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0135_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="四川卫视" tvg-logo="http://175.178.182.213/tb/四川卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",四川卫视
-http://175.0.68.108:9002/tsfile/live/0123_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0123_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="重庆卫视" tvg-logo="http://175.178.182.213/tb/重庆卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",重庆卫视
-http://175.0.68.108:9002/tsfile/live/0142_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="辽宁卫视" tvg-logo="http://175.178.182.213/tb/辽宁卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",辽宁卫视
-http://175.0.68.108:9002/tsfile/live/0121_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="贵州卫视" tvg-logo="http://175.178.182.213/tb/贵州卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",贵州卫视
-http://175.0.68.108:9002/tsfile/live/0120_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0120_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="江苏卫视" tvg-logo="http://175.178.182.213/tb/江苏卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",江苏卫视
-http://175.0.68.108:9002/tsfile/live/0127_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0127_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="东南卫视" tvg-logo="http://175.178.182.213/tb/东南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",东南卫视
-http://175.0.68.108:9002/tsfile/live/0137_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0137_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="陕西卫视" tvg-logo="http://175.178.182.213/tb/陕西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西卫视
-http://175.0.68.108:9002/tsfile/live/0136_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="内蒙古卫视" tvg-logo="http://175.178.182.213/tb/内蒙古卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",内蒙古卫视
-http://175.0.68.108:9002/tsfile/live/0109_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0109_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="宁夏卫视" tvg-logo="http://175.178.182.213/tb/宁夏卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",宁夏卫视
-http://175.0.68.108:9002/tsfile/live/0112_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0112_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="安徽卫视" tvg-logo="http://175.178.182.213/tb/安徽卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",安徽卫视
-http://175.0.68.108:9002/tsfile/live/0130_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="深圳卫视" tvg-logo="http://175.178.182.213/tb/深圳卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳卫视
-http://175.0.68.108:9002/tsfile/live/0126_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="湖北卫视" tvg-logo="http://175.178.182.213/tb/湖北卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖北卫视
-http://175.0.68.108:9002/tsfile/live/0132_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0132_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="山东卫视" tvg-logo="http://175.178.182.213/tb/山东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",山东卫视
-http://175.0.68.108:9002/tsfile/live/0131_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0131_1.m3u8
 #EXTINF:-1 group-title="☘️国内卫视频道" tvg-name="吉林卫视" tvg-logo="http://175.178.182.213/tb/吉林卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",吉林卫视
-http://175.0.68.108:9002/tsfile/live/0116_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0116_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="长沙县新闻综合" tvg-logo="http://175.178.182.213/tb/长沙县新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",长沙县新闻综合
 http://vp.htdian.cn:58080/rtp/239.76.255.33:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="浏阳新闻" tvg-logo="http://175.178.182.213/tb/浏阳新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",浏阳新闻
@@ -472,19 +472,19 @@ http://vp.htdian.cn:58080/rtp/239.76.253.135:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="冷水江新闻综合" tvg-logo="http://175.178.182.213/tb/冷水江新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",冷水江新闻综合
 http://vp.htdian.cn:58080/rtp/239.76.255.40:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="卡酷少儿" tvg-logo="http://175.178.182.213/tb/卡酷少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",卡酷少儿
-http://175.0.68.108:9002/tsfile/live/1005_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1005_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="金鹰卡通" tvg-logo="http://175.178.182.213/tb/金鹰卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰卡通
-http://175.0.68.108:9002/tsfile/live/1002_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="哈哈炫动" tvg-logo="http://175.178.182.213/tb/哈哈炫动.png" epg-url="http://epg.51zmt.top:8000/e.xml",哈哈炫动
-http://175.0.68.108:9002/tsfile/live/1007_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="优漫卡通" tvg-logo="http://175.178.182.213/tb/优漫卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml",优漫卡通
-http://175.0.68.108:9002/tsfile/live/1006_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南国际" tvg-logo="http://175.178.182.213/tb/湖南国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南国际
-http://175.0.68.108:9002/tsfile/live/1001_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南都市" tvg-logo="http://175.178.182.213/tb/湖南都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南都市
-http://175.0.68.108:9002/tsfile/live/0018_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0018_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南娱乐" tvg-logo="http://175.178.182.213/tb/湖南娱乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南娱乐
-http://175.0.68.108:9002/tsfile/live/1000_1.m3u8
+http://118.249.21.255:8989/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南卫视" tvg-logo="http://175.178.182.213/tb/湖南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南卫视
 http://vp.htdian.cn:58080/rtp/239.76.252.115:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南经视" tvg-logo="http://175.178.182.213/tb/湖南经视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南经视
@@ -528,7 +528,7 @@ http://vp.htdian.cn:58080/rtp/239.76.253.101:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南经视" tvg-logo="http://175.178.182.213/tb/湖南经视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南经视
 http://vp.htdian.cn:58080/rtp/239.76.253.103:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南电影" tvg-logo="http://175.178.182.213/tb/湖南电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电影
-http://175.0.68.108:9002/tsfile/live/0019_1.m3u8
+http://118.249.21.255:8989/tsfile/live/0019_1.m3u8
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南都市" tvg-logo="http://175.178.182.213/tb/湖南都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南都市
 http://vp.htdian.cn:58080/rtp/239.76.253.104:9000
 #EXTINF:-1 group-title="☘️湖南频道" tvg-name="湖南电视剧" tvg-logo="http://175.178.182.213/tb/湖南电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电视剧
