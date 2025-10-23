@@ -1,0 +1,67 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电影HD" tvg-logo="http://175.178.182.213/tb/湖南电影HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电影HD
+http://php.jdshipin.com:8880/iptv.php?id=hndy
+#EXTINF:-1 group-title="湖南" tvg-name="湖南国际HD" tvg-logo="http://175.178.182.213/tb/湖南国际HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南国际HD
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 group-title="湖南" tvg-name="湖南经视HD" tvg-logo="http://175.178.182.213/tb/湖南经视HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南经视HD
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 group-title="湖南" tvg-name="湖南娱乐HD" tvg-logo="http://175.178.182.213/tb/湖南娱乐HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南娱乐HD
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
+#EXTINF:-1 group-title="湖南" tvg-name="湖南爱晚HD" tvg-logo="http://175.178.182.213/tb/湖南爱晚HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南爱晚HD
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 group-title="湖南" tvg-name="湖南都市HD" tvg-logo="http://175.178.182.213/tb/湖南都市HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南都市HD
+http://php.jdshipin.com:8880/iptv.php?id=hnds
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电视剧HD" tvg-logo="http://175.178.182.213/tb/湖南电视剧HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电视剧HD
+http://php.jdshipin.com:8880/iptv.php?id=hndsj
+#EXTINF:-1 group-title="湖南" tvg-name="湖南经视" tvg-logo="http://175.178.182.213/tb/湖南经视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南都市" tvg-logo="http://175.178.182.213/tb/湖南都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南爱晚" tvg-logo="http://175.178.182.213/tb/湖南爱晚.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南爱晚
+http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南娱乐" tvg-logo="http://175.178.182.213/tb/湖南娱乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电影" tvg-logo="http://175.178.182.213/tb/湖南电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电视剧" tvg-logo="http://175.178.182.213/tb/湖南电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南国际" tvg-logo="http://175.178.182.213/tb/湖南国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="湖南教育" tvg-logo="http://175.178.182.213/tb/湖南教育.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南教育
+http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
+#EXTINF:-1 group-title="湖南" tvg-name="金鹰纪实HD" tvg-logo="http://175.178.182.213/tb/金鹰纪实HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰纪实HD
+http://h.berr.cn:3000/udp/225.0.0.144:6140
+#EXTINF:-1 group-title="湖南" tvg-name="金鹰卡通HD" tvg-logo="http://175.178.182.213/tb/金鹰卡通HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰卡通HD
+http://h.berr.cn:3000/udp/225.0.0.236:6140
+#EXTINF:-1 group-title="湖南" tvg-name="茶频道HD" tvg-logo="http://175.178.182.213/tb/茶频道HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",茶频道HD
+http://h.berr.cn:3000/udp/225.0.0.206:6140
+#EXTINF:-1 group-title="湖南" tvg-name="快乐垂钓HD" tvg-logo="http://175.178.182.213/tb/快乐垂钓HD.png" epg-url="http://epg.51zmt.top:8000/e.xml",快乐垂钓HD
+http://h.berr.cn:3000/udp/225.0.0.207:6140
+#EXTINF:-1 group-title="湖南" tvg-name="湖南经视" tvg-logo="http://175.178.182.213/tb/湖南经视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南经视
+http://www.yao87.com:4022/rtp/239.76.252.116:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南都市" tvg-logo="http://175.178.182.213/tb/湖南都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南都市
+http://www.yao87.com:4022/rtp/239.76.252.117:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南国际" tvg-logo="http://175.178.182.213/tb/湖南国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南国际
+http://www.yao87.com:4022/rtp/239.76.253.102:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电视剧" tvg-logo="http://175.178.182.213/tb/湖南电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电视剧
+http://www.yao87.com:4022/rtp/239.76.252.118:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南电影" tvg-logo="http://175.178.182.213/tb/湖南电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南电影
+http://www.yao87.com:4022/rtp/239.76.252.119:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南爱晚" tvg-logo="http://175.178.182.213/tb/湖南爱晚.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南爱晚
+http://www.yao87.com:4022/rtp/239.76.252.123:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南娱乐" tvg-logo="http://175.178.182.213/tb/湖南娱乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南娱乐
+http://www.yao87.com:4022/rtp/239.76.252.121:9000
+#EXTINF:-1 group-title="湖南" tvg-name="金鹰纪实" tvg-logo="http://175.178.182.213/tb/金鹰纪实.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰纪实
+http://www.yao87.com:4022/rtp/239.76.252.122:9000
+#EXTINF:-1 group-title="湖南" tvg-name="金鹰卡通" tvg-logo="http://175.178.182.213/tb/金鹰卡通.png" epg-url="http://epg.51zmt.top:8000/e.xml",金鹰卡通
+http://www.yao87.com:4022/rtp/239.76.252.120:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南国际" tvg-logo="http://175.178.182.213/tb/湖南国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南国际
+http://www.yao87.com:4022/rtp/239.76.252.124:9000
+#EXTINF:-1 group-title="湖南" tvg-name="湖南教育" tvg-logo="http://175.178.182.213/tb/湖南教育.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南教育
+http://www.yao87.com:4022/rtp/239.76.252.233:9000
+#EXTINF:-1 group-title="湖南" tvg-name="长沙新闻综合" tvg-logo="http://175.178.182.213/tb/长沙新闻综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",长沙新闻综合
+http://www.yao87.com:4022/rtp/239.76.253.121:9000
+#EXTINF:-1 group-title="湖南" tvg-name="长沙政法" tvg-logo="http://175.178.182.213/tb/长沙政法.png" epg-url="http://epg.51zmt.top:8000/e.xml",长沙政法
+http://www.yao87.com:4022/rtp/239.76.253.122:9000
+#EXTINF:-1 group-title="湖南" tvg-name="茶频道" tvg-logo="http://175.178.182.213/tb/茶频道.png" epg-url="http://epg.51zmt.top:8000/e.xml",茶频道
+http://www.yao87.com:4022/rtp/239.76.252.239:9000
