@@ -1,7 +1,6 @@
 ## 数十国家原生专线机场（装逼必备）：<a href="https://mcwy.org">点击注册</a></h1>
 ## 115蓝光4K原盘资源内部群：<a href="https://115.metshop.top">点击查看</a></h1>
-## 各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：<a href="https://nfvideo.cc">点击上车</a></h1>
-## 各种流媒体账号合租，ChatGPT、绘图AI：<a href="https://universalbus.cc">点击上车</a></h1>
+## 老牌流媒体合租，家庭影音首选合租平台：<a href="https://ihezu.org">点击上车</a></h1>
 # 免责声明
 **本仓库或本仓库相关的仓库, 以下简称为本仓库**  
 **本仓库全部资源均搜集于互联网，如侵权请联系我删除**  
