@@ -1,4 +1,6 @@
-央视频道,#genre#
+
+
+#央视频道,#genre#
 #EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",CCTV1
 http://113.223.24.14:9000/rtp/239.76.253.151:9000
@@ -104,7 +106,9 @@ http://113.223.24.14:9000/rtp/239.76.254.64:9000
 http://113.223.24.14:9000/rtp/239.76.254.200:9000
 #EXTINF:-1 tvg-id="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",CCTV16 4K
 http://113.223.24.14:9000/rtp/239.76.253.230:9000
-4K高清频道,#genre#
+
+
+#4K高清频道,#genre#
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",北京卫视4K
 http://113.223.24.14:9000/rtp/239.76.253.150:9000
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",北京卫视4K
@@ -157,7 +161,9 @@ http://113.223.24.14:9000/rtp/239.76.254.66:9000
 http://113.223.24.14:9000/rtp/239.76.253.43:9000
 #EXTINF:-1 tvg-id="欢笑剧场4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",欢笑剧场4K
 http://113.223.24.14:9000/rtp/239.76.246.43:1234
-综合频道,#genre#
+
+
+#综合频道,#genre#
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",CHC影迷电影
 http://113.223.24.14:9000/rtp/239.76.245.242:1234
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",CHC影迷电影
@@ -274,7 +280,9 @@ http://113.223.24.14:9000/rtp/239.76.254.65:9000
 http://113.223.24.14:9000/rtp/239.76.254.69:9000
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",都市剧场
 http://113.223.24.14:9000/rtp/239.76.254.74:9000
-省级卫视频道,#genre#
+
+
+#省级卫视频道,#genre#
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",重庆卫视
 http://113.223.24.14:9000/rtp/239.76.246.92:1234
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",重庆卫视
@@ -399,7 +407,9 @@ http://113.223.24.14:9000/rtp/239.76.245.232:1234
 http://113.223.24.14:9000/rtp/239.76.246.74:1234
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",三沙卫视
 http://113.223.24.14:9000/rtp/239.76.253.74:9000
-湖南本地频道,#genre#
+
+
+#湖南本地频道,#genre#
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",湖南都市
 http://113.223.24.14:9000/rtp/239.76.252.117:9000
 #EXTINF:-1 tvg-id="湖南都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" group-title="湖南益阳组播 湖南电信",湖南都市
